@@ -38,8 +38,8 @@ Throughout my professional life I have had opportunity to work both in small and
 
 #### University of Lodz, Poland (October 2003 to September 2008)
 
-- Master Degree in Psychology
-  specialization: Psychology of Career Guidance and Organization
+- Master Degree in Psychology 
+- specialization: Psychology of Career Guidance and Organization
 
 ## Experience
 
