@@ -45,7 +45,6 @@ Throughout my professional life I have had opportunity to work both in small and
 - Object-oriented programming
 - TDD & BDD
 - Agile, XP values
-- Practicing XP values
 - Ruby, Sinatra, Rails, JavaScript, Express,
 - PostgreSQL
 - RSpec, Jasmine, Capybara, Cypress
