@@ -8,7 +8,7 @@ I graduated from Business Psychology and spend several years working in IT recru
 
 I always enjoyed working with technology and wanted to learn some kind of technical skills, but thought without going back to university this door was closed for me. And then I discovered coding, tried few online tutorials and knew I finally found a career path that ticked all the boxes: fast paced environment, challenges, real world problems to solve and continuous learning. And it is so much fun!
 
-I am looking for my first software developer job that will constantly challenge me to learn more, renew and improve.
+I am looking for my first software developer role that will constantly challenge me to learn more and improve.
 My goal is to join a company that uses the newest technologies and best practices where I can develop projects which will positively impact people's lives.
 
 ## Projects
