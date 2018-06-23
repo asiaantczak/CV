@@ -1,4 +1,4 @@
-## Asia Antczak
+<h2 align="center">Asia Antczak</h2>
 
 <p align="center"> <a href='#projects'>Projects</a> | <a href='#skills'>Skills</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> </p>
 
