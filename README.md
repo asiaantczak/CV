@@ -15,10 +15,9 @@ My goal is to join a company that uses the newest technologies and best practice
 
 | Project              | Summary     | Technologies  | Testing | Deployed App |
 | -------------------- |-------------| --------------|---------|--------------|
-| 1. <space for final project> | Final Project:  |  |  |
-| 2. [Fishbook](https://github.com/revilo1882/acebook-rails-LAHWF)| Facebook clone build from scratch in 2 weeks in a team of 5. The goal was to deliver full stack web application while working as agile team |  Ruby on Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, Acts_As_Votable, jQuery, Travis-ci, Simplecov, Rubocop | RSpec-Rails, Capybara | <a href="https://morning-everglades-97311.herokuapp.com/"><img src="logo/heroku.png" width="60" align="center"></a>
-| 3. <space for one more project> |
- |  |
+| <space for final project> | Final Project:  |  |  |  |
+| [Fishbook](https://github.com/revilo1882/acebook-rails-LAHWF)| Facebook clone build from scratch in 2 weeks in a team of 5. The goal was to deliver full stack web application while working as agile team |  Ruby on Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, Acts_As_Votable, jQuery, Travis-ci, Simplecov, Rubocop | RSpec-Rails, Capybara | <a href="https://morning-everglades-97311.herokuapp.com/"><img src="logo/heroku.png" width="60" align="center"></a>
+| <space for one more project> | |  | |
 
 ## Skills
 
