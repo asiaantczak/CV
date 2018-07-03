@@ -15,7 +15,7 @@ My goal is to join a company that uses the newest technologies and best practice
 
 | Project              | Summary     | Technologies  | Testing | Deployed App |
 | -------------------- |-------------| --------------|---------|--------------|
-| [Final Project - Beloved Machine](https://github.com/MarkChanner/final-project) | Audio sequencer build in 9 days as a final project with the 3 other amazing Makers students. | Vanilla Javascript, Web Audio API, Canvas API, HTML, CSS, Istanbul, ESLint | Jasmine | <a href="https://stranger-synths.herokuapp.com/" | <img src="logo/heroku.png" width="60" align="center"></a>
+| [Final Project - Beloved Machine](https://github.com/MarkChanner/final-project) | Audio sequencer build in 9 days as a final project with the 3 other amazing Makers students. | Vanilla Javascript, Web Audio API, Canvas API, HTML, CSS, Istanbul, ESLint | Jasmine | <a href="https://stranger-synths.herokuapp.com/"><img src="logo/heroku.png" width="60" align="center"></a>
 | [Bank Tech Test](https://github.com/asiaantczak/bank_tech_test)| Simple Command Line application simulating banking transactions. The goal of this exercise was to demonstrate and practice Object Oriented Design | Ruby, Rubocop, SimpleCov | RSpec |
 | [Fishbook](https://github.com/revilo1882/acebook-rails-LAHWF)| Facebook clone build from scratch in 2 weeks in a team of 5. The goal was to deliver full stack web application while working as agile team. |  Ruby on Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, Acts_As_Votable, jQuery, Travis-ci, Simplecov, Rubocop | RSpec-Rails, Capybara | <a href="https://morning-everglades-97311.herokuapp.com/"><img src="logo/heroku.png" width="60" align="center"></a>
 
