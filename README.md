@@ -2,7 +2,7 @@
 
 <p align="center"> <a href='#projects'>Projects</a> | <a href='#skills'>Skills</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> </p>
 
-I am an aspiring full stack developer in training, who has been given an amazing opportunity to become a <a href="https://www.makersacademy.com/fellowship/">Fellow student</a> at Makers Academy - highly selective, 16-week programming bootcamp.
+I have been given an amazing opportunity to become a <a href="https://www.makersacademy.com/fellowship/">Fellow student</a> at Makers Academy - highly selective, 16-week programming bootcamp.
 
 I graduated from Business Psychology and spend several years working in IT recruitment, Sales and Admin jobs. Despite being top performer in my roles, I never felt passion for it.
 
